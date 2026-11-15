@@ -1,0 +1,7 @@
+Model,Dataset,mu_e,sigma_e,MSE,R2
+LLS,Training,-4.698e-15,1.9126,3.66,0.924
+LLS,Test,1.272e-02,1.9174,3.68,0.914
+GAM,Training,9.641e-03,1.9133,3.66,0.924
+GAM,Test,2.226e-02,1.9186,3.68,0.914
+SGD (Adam),Training,3.404e-02,1.9173,3.68,0.924
+SGD (Adam),Test,4.517e-02,1.9220,3.70,0.913

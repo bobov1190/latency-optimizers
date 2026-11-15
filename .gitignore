@@ -1,0 +1,18 @@
+# raw log: 3.3 GB and contains visitor IP addresses - never commit
+access.log
+*.log
+
+# regenerated datasets (the frozen data/dataset.csv is the canonical one)
+data/dataset_regenerated*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

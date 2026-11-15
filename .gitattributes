@@ -1,0 +1,3 @@
+data/dataset.csv -text
+*.png binary
+data/SHA256SUM text eol=lf

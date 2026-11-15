@@ -1,0 +1,9 @@
+﻿cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Optimization techniques in a linear regression framework for latency prediction from web server traffic data"
+type: software
+authors:
+  - family-names: "Hudoyorov"
+    given-names: "Bahodir"
+license: MIT
+repository-code: "https://github.com/bobov1190/latency-optimizers"
